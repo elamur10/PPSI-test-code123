@@ -42,7 +42,7 @@ public class LoginScenario {
 	@AfterMethod
 	public void aftertest()
 	{
-		driver.quit();
+		//driver.quit();
 	}
 
 }
